@@ -3,7 +3,7 @@
 **About:**
 Address book to register a person with email address, phone number and adress. 
 
-The Addressbook is Docker containarized which is deployed on Kubernetes
+The Addressbook is Docker containarized which is deployed also on Kubernetes
 
 **Adressbook:**
 
